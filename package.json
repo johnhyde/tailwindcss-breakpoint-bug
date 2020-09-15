@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-breakpoint-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  	"build": "npx tailwindcss build styles.css -o output.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
