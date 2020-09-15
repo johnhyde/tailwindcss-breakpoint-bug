@@ -10,10 +10,6 @@ module.exports = {
         'custom': '708px',
         'custom-to-lg': {'min': '708x', 'max': '1023px'},
       },
-      spacing: {
-        big: '18rem',
-        bigger: '560px',
-      },
     },
   },
   variants: {},
